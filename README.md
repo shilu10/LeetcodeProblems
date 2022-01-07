@@ -1,7 +1,7 @@
 # LeetcodeProblems
 
-##JumpGame
+## JumpGame
 
-*Algorithm to this problem is Greedy Method we can use this solve this
+* Algorithm to this problem is Greedy Method we can use this solve this
 
-###what is Greedy method ?
+### what is Greedy method ?
