@@ -1,6 +1,6 @@
 # LeetcodeProblems
 
-## JumpGame
+## 1.JumpGame
 
 * We can use the Greedy Method to this solve this
 
