@@ -1,5 +1,9 @@
 # LeetcodeProblems
 
+* [JumpGame](#JumpGame)
+* [RotateImage](#RotateImage)
+
+
 ## 1.JumpGame
 
 * We can use the Greedy Method to this solve this
@@ -15,10 +19,10 @@
 
 
 ## 2.RotateImage
- * solution for this problem ,we can solve this prblm by handling the value for 
+ * Whenever you get a problem based on matrix or multi-indexed array, try to think solving in a way of outer and inner  matrix.solution for this problem ,we can solve this prblm by handling the value for 
  one topleft in temp and changing the value of other position inplace 
  always think if there is matrix kind of problem do it in the way of
  allocating    ****"top" , "bottom","left","right"**** and then think to solve 
  the problem and we need to make sure also we are changing the inner squares
  also so only we are using the range(r-l) to make sure to take care of the 
- inner matrix to be solved
+ inner matrix to be solved.First Solve outer matrix and come to inner matrix.Most of the times this kind of approach will work
