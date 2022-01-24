@@ -1,7 +1,7 @@
 # LeetcodeProblems
 
-* [JumpGame](#JumpGame)
-* [RotateImage](#RotateImage)
+* [JumpGame](#1.JumpGame)
+* [RotateImage](#2.RotateImage)
 
 
 ## 1.JumpGame
