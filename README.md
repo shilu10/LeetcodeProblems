@@ -15,9 +15,9 @@
 
 
 ## 2.RotateImage
- solution for this problem ,we can solve this prblm by handling the value for 
+ * solution for this problem ,we can solve this prblm by handling the value for 
  one topleft in temp and changing the value of other position inplace 
- always think if there is mstrix kind of problem do it in the way of
+ always think if there is matrix kind of problem do it in the way of
  allocating    ****"top" , "bottom","left","right"**** and then think to solve 
  the problem and we need to make sure also we are changing the inner squares
  also so only we are using the range(r-l) to make sure to take care of the 
