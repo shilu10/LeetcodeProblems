@@ -2,6 +2,8 @@
 
 * [JumpGame](#1.JumpGame)
 * [RotateImage](#2.RotateImage)
+* [ReverseInteger](#3.ReverseInteger)
+
 
 
 ## 1.JumpGame
